@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Figure
-- 👀 I’m interested in font-end development
-- 🌱 I’m currently learning HTML,CSS,JavaScript,Wechat applets
+- 👀 I’m interested in the game development
+- 🌱 I’m currently learning Unity3D, C#, Cpp
 - 💞️ I’m looking to collaborate on ...(not yet)
 - 📫 How to reach me ...(maybe qq:1157552798)
 
