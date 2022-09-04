@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Figure
-- 👀 I’m interested in the game development
-- 🌱 I’m currently learning Unity3D, C#, Cpp
-- 💞️ I’m looking to collaborate on ...(not yet)
-- 📫 How to reach me ...(maybe qq:1157552798)
+- 👀 U3D, C#, Cpp
+- 🌱 
+- 💞️ 
+- 📫 qq:1157552798
 
 <!---
 Figureeeeee/Figureeeeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
