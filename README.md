@@ -1,5 +1,9 @@
 - 👋 I'm fjf.
-- 👀 Aim to Full-Stack:U3D(C#), Cpp, Django(Python), Web(HTML5 CSS3 JavaScript)
+- 👀 Aim to Full-Stack
+  - U3D(C#)
+  - Cpp
+  - Django(Python)
+  - Web(HTML5 CSS3 JavaScript)
 - 📫 qq:1157552798
 
 <!---
